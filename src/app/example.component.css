@@ -56,3 +56,9 @@ ion-tab-bar {
   margin: 6px;
   color: #e3ebf8;
 }
+ion-list {
+  padding-top: 100px;
+}
+ion-icon {
+  padding: 4px;
+}
