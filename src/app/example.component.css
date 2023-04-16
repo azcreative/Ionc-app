@@ -43,10 +43,10 @@ ion-accordion-group {
 ion-item {
   color: #333333;
 }
-ion-tab-button {
+ion-tab-button{
+  background-color: #3171e0;
   color: white;
 }
-
 ion-tab-bar {
   display: flex;
   align-items: center;
@@ -54,7 +54,7 @@ ion-tab-bar {
   border-radius: 30px;
   padding-bottom: 4px;
   margin: 6px;
-  color: #e3ebf8;
+  background-color: #3171e0;
 }
 ion-list {
   display: block; 
