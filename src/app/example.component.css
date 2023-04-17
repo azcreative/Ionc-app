@@ -8,7 +8,7 @@ ion-chip.ios {
   display: flex;
 }
 ion-card.md {
-  background-color: rgb(106, 126, 117);
+  background-color: #D6E8CE;
   padding: 0.25rem;
   margin: 6px;
   border-radius: 8px;
@@ -20,6 +20,7 @@ ion-card-content {
 ion-chip.md {
   margin: 4px;
   font-size: smaller;
+  border: 1px solid #003A05; 
 }
 ion-tab-button.md {
   font-size: x-small;
@@ -55,4 +56,7 @@ ion-tab-bar {
   border-radius: 30px;
   margin: 6px;
 
+}
+.header-md::after {
+  background-image: none;
 }
