@@ -44,7 +44,8 @@ ion-item {
   color: #333333;
 }
 ion-tab-button {
-  color: white;
+  background-color: #E3EBF8;
+  color: #135AC5;
 }
 
 ion-tab-bar {
@@ -52,7 +53,6 @@ ion-tab-bar {
   align-items: center;
   justify-content: center;
   border-radius: 30px;
-  padding-bottom: 4px;
   margin: 6px;
-  color: #e3ebf8;
+
 }
