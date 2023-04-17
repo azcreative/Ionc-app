@@ -56,3 +56,7 @@ ion-tab-bar {
   margin: 6px;
 
 }
+ion-avatar{
+  size: 36px;
+  margin-right: 8px;
+}
