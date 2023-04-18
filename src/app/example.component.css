@@ -60,3 +60,6 @@ ion-avatar{
   size: 24px;
   margin-right: 8px;
 }
+ion-list{
+  overflow: scroll;
+}
