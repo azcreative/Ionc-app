@@ -1,5 +1,5 @@
 /* iOS places the subtitle above the title */
-ion-card-header.md {
+ion-card-header.ios  {
   display: flex;
   flex-flow: column-reverse;
   box-shadow: none;
@@ -57,6 +57,6 @@ ion-tab-bar {
 
 }
 ion-avatar{
-  size: 36px;
+  size: 24px;
   margin-right: 8px;
 }
